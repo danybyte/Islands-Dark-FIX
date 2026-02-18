@@ -1,7 +1,8 @@
 # Islands Dark
 
 > [!IMPORTANT]
-> This theme and repo don't belong to me; I only fixed the issues. This repository belongs to [bwya77](https://github.com/bwya77/vscode-dark-islands/).
+> This theme and repo don't belong to me; I only fixed the settings file. This repository belongs to [bwya77](https://github.com/bwya77/vscode-dark-islands/).
+> you have to do evrything [bwya77](https://github.com/bwya77/vscode-dark-islands/) said. and just move the file settings with the original version
 
 
 <img width="1909" height="1039" alt="CleanShot 2026-02-14 at 21 47 05@2x" src="https://github.com/user-attachments/assets/d0db3e7a-d2ed-4e38-89e0-60f50b527bc6" />
